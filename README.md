@@ -1,8 +1,4 @@
 <h1 align="left">Hey sup? ✌🏼 I'm Jihed Berlim</h1>
-
-<br>
-
-## 📱 Contacts
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/jihedberlim" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jihedberlim-05122A?style=flat&logo=codepen" alt="codepen"/>
@@ -15,7 +11,9 @@
 </a>
 </p>
 
+<br>
 
+##
 - 🔭 I’m currently working with front-end development
 - 🌱 I’m currently learning Typescript and Reactjs
 - 🌐 Passionate about technology, sports and coffee
