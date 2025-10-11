@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-End Developer<br>- Currently learning Typescript and Reactjs<br>- Student of Class 7 ONE (Oracle + Alura) Back-End Specialization</p>
+<p align="left">- Front-End Developer<br>- Currently learning Typescript and Reactjs<br></p>
 
 ###
 
