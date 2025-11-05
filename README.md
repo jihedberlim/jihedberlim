@@ -1,62 +1,70 @@
-<h2 align="left">About  Me</h2>
+<h1 align="center">👨🏽‍💻☕🏀 Olá, eu sou o Jihed Berlim!</h1>
 
-###
+<p align="center">
+  💻 Desenvolvedor Back-end | 🚀 Apaixonado por tecnologia e inovação | 🤓 Em constante aprendizado e boas práticas de desenvolvimento
+</p>
 
-<p align="left">- Front-End Developer<br>- Currently learning Typescript and Reactjs<br></p>
+---
 
-###
+### 🧠 Sobre mim  
 
-<h2 align="left">Techs</h2>
+Sou **Desenvolvedor Back-end** com foco em **Java e Spring Boot**, apaixonado por transformar problemas complexos em soluções práticas e eficientes.  
 
-###
+Formado em **Análise e Desenvolvimento de Sistemas**, iniciei minha trajetória na área como **Desenvolvedor PHP e JavaScript**, atuando também como **Consultor Oracle e Salesforce** — experiências que ampliaram minha visão sobre integração de sistemas e boas práticas de desenvolvimento.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
+Atualmente, dedico meus estudos ao **ecossistema Java**, buscando dominar desde o desenvolvimento de APIs RESTful até o uso de bancos de dados relacionais e segurança de aplicações.  
+Também tenho experiência no **front-end**, utilizando **React, TypeScript, HTML e CSS** para construir interfaces modernas, acessíveis e funcionais.
 
-###
+---
 
-<h2 align="left">Stats</h2>
+### 🧩 Atualmente aprendendo  
 
-###
+📘 **Java Avançado** – Padrões de projeto, coleções e streams.  
+🧱 **Spring Boot Avançado** – Segurança (Spring Security, JWT) e boas práticas REST.  
+🧩 **APIs RESTful** – Design, versionamento e documentação com Swagger/OpenAPI.  
+🗄️ **Banco de Dados** – Modelagem, consultas otimizadas e PostgreSQL avançado.  
+☁️ **Docker e Deploy** – Criação de containers e automação de ambientes de desenvolvimento.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihedberlim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedberlim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠️ Tecnologias & Ferramentas  
 
-<h2 align="left">Social Media</h2>
+#### ⚙️ Back-end  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+#### 🎨 Front-end  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jihed-elmograbi-berlim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/jihedberlim" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://discord.com/jihedb_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+#### 🔧 Ferramentas e ambientes  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-###
+---
+
+### 📊 Estatísticas do GitHub  
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jihedberlim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihedberlim&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🤝 Vamos nos conectar?
+
+📩 **E-mail:** [jihedberlim@gmail.com](mailto:jihedberlim@gmail.com)  
+💼 **LinkedIn:** [Jihed Elmograbi Berlim](https://www.linkedin.com/in/jihed-elmograbi-berlim/)
+
+---
+
+*“A tecnologia é a ponte entre o que somos e o que podemos ser.”💡*  
