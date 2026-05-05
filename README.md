@@ -1,19 +1,19 @@
 <h1 align="center">👨🏽‍💻☕🏀 Olá, eu sou o Jihed Berlim!</h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-end | 🚀 Apaixonado por tecnologia e inovação | 🤓 Em constante aprendizado e boas práticas de desenvolvimento
+  💻 Desenvolvedor Junior | 🚀 Apaixonado por tecnologia e inovação | 🤓 Em constante aprendizado e boas práticas de desenvolvimento
 </p>
 
 ---
 
 ### 🧠 Sobre mim  
 
-Sou **Desenvolvedor Back-end** com foco em **Java e Spring Boot**, apaixonado por transformar problemas complexos em soluções práticas e eficientes.  
+Sou **Desenvolvedor Junior** com foco em **Front-end e Back-end**, apaixonado por transformar problemas complexos em soluções práticas e eficientes.  
 
 Formado em **Análise e Desenvolvimento de Sistemas**, iniciei minha trajetória na área como **Desenvolvedor PHP e JavaScript**, atuando também como **Consultor Oracle e Salesforce** — experiências que ampliaram minha visão sobre integração de sistemas e boas práticas de desenvolvimento.
 
 Atualmente, dedico meus estudos ao **ecossistema Java**, buscando dominar desde o desenvolvimento de APIs RESTful até o uso de bancos de dados relacionais e segurança de aplicações.  
-Também tenho experiência no **front-end**, utilizando **React, TypeScript, HTML e CSS** para construir interfaces modernas, acessíveis e funcionais.
+Também tenho experiência no **front-end**, utilizando **JavaScript, HTML e CSS** para construir interfaces modernas, acessíveis e funcionais.
 
 ---
 
@@ -39,7 +39,7 @@ Também tenho experiência no **front-end**, utilizando **React, TypeScript, HTM
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### 🔧 Ferramentas e ambientes  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
