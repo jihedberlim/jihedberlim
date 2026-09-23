@@ -30,40 +30,20 @@ Também tenho experiência no **front-end**, utilizando **JavaScript, HTML e CSS
 ### 🛠️ Tecnologias & Ferramentas  
 
 #### ⚙️ Back-end  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![Back-end Skills](https://skillicons.dev/icons?i=java,py,mysql,spring&theme=dark)](https://skillicons.dev)
 
 #### 🎨 Front-end  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind&theme=dark)](https://skillicons.dev)
 
 #### 🔧 Ferramentas e ambientes  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub  
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jihedberlim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihedberlim&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+[![My Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 🤝 Vamos nos conectar?
 
-📩 **E-mail:** [jihedberlim@gmail.com](mailto:jihedberlim@gmail.com)  
-💼 **LinkedIn:** [Jihed Elmograbi Berlim](https://www.linkedin.com/in/jihed-elmograbi-berlim/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jihedberlim@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jihed-elmograbi-berlim/)
 
 ---
 
